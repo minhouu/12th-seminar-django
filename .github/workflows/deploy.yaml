@@ -21,7 +21,7 @@ jobs:
           project: minhouu/snulion_week12
           stage: main
           yaml: >
-            name: snulion-week12
+            name: week12-django
 
             app: python@3.9
 
